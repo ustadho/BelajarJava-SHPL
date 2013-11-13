@@ -6,6 +6,7 @@ Belajar Java bareng:
 Aplikasi ini kami buat belajar pada saat kunjungan saya di Palembang tanggal 13-Nov-2013
 
 1. Tambahkan script berikut: \
+
 ```
 create table test_insert(
 	kode_barang varchar(12), 
@@ -18,3 +19,4 @@ create table test_insert(
 select * from test_insert
 
 ```
+
